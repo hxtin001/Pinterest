@@ -1,0 +1,19 @@
+{
+  "CONFIG": [
+    {
+      "WEB_URL": ["http://abc.com", "http://defff.com"]
+    }
+  ],
+  "TESTS": [
+    {
+      "USERNAME": "boydatjnh93@gmail.com",
+      "PASSWORD": "abXY4321%$%$",
+      "LANGUAGE": "vi-VN"
+    },
+    {
+      "USERNAME": "",
+      "PASSWORD": "",
+      "LANGUAGE": "vi-VN"
+    }
+  ]
+}
